@@ -1,0 +1,3 @@
+[2026-03-09T16:18:48.687Z] [INFO] Server started on port 3000
+[2026-03-09T16:18:52.510Z] [INFO] Request: GET /
+[2026-03-09T16:18:55.675Z] [INFO] Request: GET /api/vitals
